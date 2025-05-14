@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
         <p className="text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           The best place to track your habits
-        </p> 
+        </p>
       </main>
     </section>
   );
